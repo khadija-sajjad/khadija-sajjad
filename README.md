@@ -28,7 +28,7 @@ I'm a BSAI student at Iqra University, passionate about data analytics, and skil
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](www.linkedin.com/in/khadija-sajjad-0b8a7a355)
 📧 khadijasajjad224@gmail.com
 
 ---
