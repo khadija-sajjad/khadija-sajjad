@@ -22,8 +22,8 @@ I'm a BSAI student at Iqra University, passionate about data analytics, and skil
 
 - 🔍 **[DecodeLabs Data Analytics Internship](https://github.com/khadija-sajjad/DecodeLabs-Internship)** — Data cleaning, EDA, SQL analysis, and Power BI dashboarding on real datasets.
 - 🐍 **[CodeAlpha Data Analytics Internship](https://github.com/khadija-sajjad/CodeAlpha_Intenship)** — Web scraping, EDA, visualization, and NLP-based sentiment analysis in Python.
-- 🛒 **[Olist E-Commerce SQL Analysis](https://github.com/khadija-sajjad/olist-ecommerce-sql-analysis)** — Real-world SQL project analyzing the Olist Brazilian E-Commerce dataset in MySQL.
-
+- 🛒 **[Olist E-Commerce SQL Analysis](https://github.com/khadija-sajjad/SQL-Data-Analytics-Projects/tree/main/01-Ecommerce-Funnel-Analysis)** — Real-world SQL project analyzing the Olist Brazilian E-Commerce dataset in MySQL.
+- 📱 **[Telecom Customer Churn Analysis](https://github.com/khadija-sajjad/SQL-Data-Analytics-Projects/tree/main/02-Telecom-Churn-Analysis)** — Real-world SQL project analyzing the Telco Customer Churn dataset in MySQL.
 ---
 
 ### 📫 Connect with me
